@@ -1,3 +1,7 @@
+> [!DEV-ONLY]
+> # Phase 4 实施计划
+> **AI 运行时不需要加载。开发实施计划文档。**
+
 # Phase 4: 优化与扩展 Implementation Plan
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use subagent-driven-development (recommended) or executing-plans to implement this plan task-by-task.

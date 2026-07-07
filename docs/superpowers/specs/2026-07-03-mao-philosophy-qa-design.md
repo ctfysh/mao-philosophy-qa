@@ -538,6 +538,10 @@ skills/mao-philosophy-qa/
 ### 5.2 SKILL.md 核心逻辑
 
 ```markdown
+> [!DEV-ONLY]
+> # DESIGN.md — 设计文档
+> **AI 运行时不需要加载。本文件是开发设计参考，不包含运行时需要的指令。**
+
 # 毛选哲学问对
 
 ## 触发
