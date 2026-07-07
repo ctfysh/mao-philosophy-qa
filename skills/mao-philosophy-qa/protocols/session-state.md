@@ -1,14 +1,14 @@
-# 对话持久化 — Session 状态协议
+# 对话持久化 — 会话状态协议
 
 > **用途**：允许用户跨会话继续之前的对话，避免每次从零开始。
 
 ---
 
-## Session 状态文件
+## 会话状态文件
 
 路径：`.omo/sessions/mao-qa-session.json`
 
-## Schema
+## 数据结构
 
 ```json
 {
