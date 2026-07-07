@@ -125,4 +125,4 @@ resistance_count: int    // >=2 切换策略
 | `references/article-index.md` | 所有哲学/方法论文章的行号索引（32篇） |
 | `references/anti-patterns.md` | AI 常见反模式自查：过早建议/替用户结论/原理堆砌/跳过共情 |
 | `protocols/session-state.md` | 跨会话状态保持协议 |
-| `seeds/` | 9类场景×10-15问=~112个种子问题，按类别索引 |
+| `references/seeds-compact.md` | 112个种子问题，9类场景紧凑索引 |

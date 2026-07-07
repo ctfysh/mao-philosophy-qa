@@ -53,7 +53,7 @@
 | 设计文档 | `docs/superpowers/specs/2026-07-03-mao-philosophy-qa-design.md` |
 | 53 条哲学原理 | `skills/mao-philosophy-qa/references/philosophical-pillars.md` |
 | 场景↔原理映射 | `skills/mao-philosophy-qa/references/mapping-table.md` |
-| 种子问题（112 问） | `skills/mao-philosophy-qa/seeds/` |
+| 种子问题（112 问） | `skills/mao-philosophy-qa/references/seeds-compact.md` |
 | 对话案例 | `skills/mao-philosophy-qa/protocols/dialogue-examples.md` |
 | 反模式自查 | `skills/mao-philosophy-qa/references/anti-patterns.md` |
 | 测试用例 | `skills/mao-philosophy-qa/tests/` |
