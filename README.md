@@ -5,6 +5,10 @@
 
 ---
 
+<p align="center">
+  <img src="poster.png" alt="毛选哲学问对 宣传海报" width="600">
+</p>
+
 ## 快速开始
 
 在对话中输入以下任一命令启动：
