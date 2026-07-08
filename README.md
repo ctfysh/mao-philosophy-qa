@@ -5,9 +5,7 @@
 
 ---
 
-<p align="center">
-  <img src="poster.png" alt="毛选哲学问对 宣传海报" width="600">
-</p>
+![毛选哲学问对 宣传海报](images/poster.png)
 
 ## 快速开始
 
